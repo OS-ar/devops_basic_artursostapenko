@@ -5,7 +5,7 @@ This is my learning repo, where homework will and practise jobs will be stored.
 ## About me
 
 My name is Arturs, and currently I'm working as System Administrator.
-![Employee data](https://github.com/OS-ar/devops_basic_artursostapenko/blob/main/git_repos/assets/pic1.jpg?raw=true "AO")
+![Employee data](https://github.com/OS-ar/devops_basic_artursostapenko/blob/main/git_repos/module_1/assets/pic1.jpg.jpg?raw=true "AO")
 
 ## Tools I'm using
 
